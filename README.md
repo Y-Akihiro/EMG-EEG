@@ -1,1 +1,12 @@
-# EMG-EEG-
+# EMG (EEG)
+
+## Introduction
+
+
+
+## Design/Software
+
+
+
+## References
+
