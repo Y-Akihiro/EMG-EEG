@@ -12,14 +12,15 @@ This is a record of an EMG (rather than EEG at this point, due to the sensitivit
 
 The PCB board consists of the following parts:
 
-a. Over-voltage protection
-a. INA
-a. Notch filter
-a. high-pass filter and variable gain
-a. low-pass filter
-a. Right-leg drive
-a. -5Vdc circuit
-a. DC offset
+1. Over-voltage protection
+1. INA
+1. Notch filter
+1. high-pass filter and variable gain
+1. low-pass filter
+1. Right-leg drive
+1. -5Vdc circuit
+1. DC offset
+
 
 ![design](/images/design.png)
 
@@ -33,8 +34,4 @@ a. DC offset
 * J.C. Huhta and J. G. Webster, “60-Hz Interference in Electrocardiography,” IEEE Transactions on Biomedical Engineering, vol. BME-20, no. 2, pp. 91–101, Mar. 1973, doi: [10.1109/TBME.1973.324169](https://doi.org/10.1109/TBME.1973.324169)
 * M.R. Neuman, “1 6 BIOPOTENTIAL AMPLIFIERS,” 2009
 * B.B. Winter and J. G. Webster, “Driven-right-leg circuit design,” IEEE Transactions on Biomedical Engineering, vol. BME-30, no. 1, pp. 62–66, Jan. 1983, doi: [10.1109/TBME.1983.325168](https://doi.org/10.1109/TBME.1983.325168)
-
-<style type="text/css">
-    ol { list-style-type: lower-alpha; }
-</style>
 
