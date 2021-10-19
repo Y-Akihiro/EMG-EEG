@@ -6,7 +6,12 @@ There are so many resources available to make one's own EMG (Electromyography) o
 
 This is a record of an EMG (rather than EEG at this point, due to the sensitivity issue) based on the online references that I found in spring of 2020. The references are listed at the bottom of this page.
 
+This is something I wanted to try and actually did for an electronics course final project. I will add/update the scripts and detailed design of the circuit later (TBA).
 
+### Parts list/BoM
+* Arduino
+* Electrodes
+* Electronics parts (resistor, capacitor, INA, etc.)
 
 ## Design/Software
 
@@ -24,6 +29,7 @@ The PCB board consists of the following parts:
 
 ![design](/images/design.png)
 
+(**FYI**: This circuit is the initial design and not fully functional when tested. I will update the working model.)
 
 ## References
 
