@@ -1,4 +1,5 @@
 # EMG (EEG)
+Repo for an EMG project that I did for the final proejct in the experimental physics course.
 
 ## Introduction
 
